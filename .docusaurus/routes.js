@@ -4,49 +4,49 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
   {
     path: '/avro-wiki-docusaurus/docs',
-    component: ComponentCreator('/avro-wiki-docusaurus/docs', '7d0'),
+    component: ComponentCreator('/avro-wiki-docusaurus/docs', '823'),
     routes: [
       {
         path: '/avro-wiki-docusaurus/docs',
-        component: ComponentCreator('/avro-wiki-docusaurus/docs', '625'),
+        component: ComponentCreator('/avro-wiki-docusaurus/docs', '6fc'),
         routes: [
           {
             path: '/avro-wiki-docusaurus/docs',
-            component: ComponentCreator('/avro-wiki-docusaurus/docs', '685'),
+            component: ComponentCreator('/avro-wiki-docusaurus/docs', '94d'),
             routes: [
               {
                 path: '/avro-wiki-docusaurus/docs/intro',
-                component: ComponentCreator('/avro-wiki-docusaurus/docs/intro', 'b16'),
+                component: ComponentCreator('/avro-wiki-docusaurus/docs/intro', '3b9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/avro-wiki-docusaurus/docs/tutorial-basics/congratulations',
-                component: ComponentCreator('/avro-wiki-docusaurus/docs/tutorial-basics/congratulations', '36a'),
+                component: ComponentCreator('/avro-wiki-docusaurus/docs/tutorial-basics/congratulations', '904'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/avro-wiki-docusaurus/docs/tutorial-basics/create-a-document',
-                component: ComponentCreator('/avro-wiki-docusaurus/docs/tutorial-basics/create-a-document', '8d5'),
+                component: ComponentCreator('/avro-wiki-docusaurus/docs/tutorial-basics/create-a-document', '636'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/avro-wiki-docusaurus/docs/tutorial-basics/create-a-page',
-                component: ComponentCreator('/avro-wiki-docusaurus/docs/tutorial-basics/create-a-page', 'c84'),
+                component: ComponentCreator('/avro-wiki-docusaurus/docs/tutorial-basics/create-a-page', '217'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/avro-wiki-docusaurus/docs/tutorial-basics/deploy-your-site',
-                component: ComponentCreator('/avro-wiki-docusaurus/docs/tutorial-basics/deploy-your-site', '9b9'),
+                component: ComponentCreator('/avro-wiki-docusaurus/docs/tutorial-basics/deploy-your-site', '815'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/avro-wiki-docusaurus/docs/tutorial-basics/markdown-features',
-                component: ComponentCreator('/avro-wiki-docusaurus/docs/tutorial-basics/markdown-features', 'f56'),
+                component: ComponentCreator('/avro-wiki-docusaurus/docs/tutorial-basics/markdown-features', 'bab'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
@@ -58,7 +58,7 @@ export default [
   },
   {
     path: '/avro-wiki-docusaurus/',
-    component: ComponentCreator('/avro-wiki-docusaurus/', 'bea'),
+    component: ComponentCreator('/avro-wiki-docusaurus/', '96a'),
     exact: true
   },
   {

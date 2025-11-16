@@ -1,45 +1,45 @@
 {
-  "/avro-wiki-docusaurus/docs-7d0": {
+  "/avro-wiki-docusaurus/docs-823": {
     "__comp": "5e95c892",
     "__context": {
-      "plugin": "41e406e4"
+      "plugin": "aba21aa0"
     }
   },
-  "/avro-wiki-docusaurus/docs-625": {
+  "/avro-wiki-docusaurus/docs-6fc": {
     "__comp": "a7bd4aaa",
-    "version": "935f2afb"
+    "__props": "93f0bf9f"
   },
-  "/avro-wiki-docusaurus/docs-685": {
+  "/avro-wiki-docusaurus/docs-94d": {
     "__comp": "a94703ab"
   },
-  "/avro-wiki-docusaurus/docs/intro-b16": {
+  "/avro-wiki-docusaurus/docs/intro-3b9": {
     "__comp": "17896441",
     "content": "0e384e19"
   },
-  "/avro-wiki-docusaurus/docs/tutorial-basics/congratulations-36a": {
+  "/avro-wiki-docusaurus/docs/tutorial-basics/congratulations-904": {
     "__comp": "17896441",
     "content": "822bd8ab"
   },
-  "/avro-wiki-docusaurus/docs/tutorial-basics/create-a-document-8d5": {
+  "/avro-wiki-docusaurus/docs/tutorial-basics/create-a-document-636": {
     "__comp": "17896441",
     "content": "1e4232ab"
   },
-  "/avro-wiki-docusaurus/docs/tutorial-basics/create-a-page-c84": {
+  "/avro-wiki-docusaurus/docs/tutorial-basics/create-a-page-217": {
     "__comp": "17896441",
     "content": "5c868d36"
   },
-  "/avro-wiki-docusaurus/docs/tutorial-basics/deploy-your-site-9b9": {
+  "/avro-wiki-docusaurus/docs/tutorial-basics/deploy-your-site-815": {
     "__comp": "17896441",
     "content": "f55d3e7a"
   },
-  "/avro-wiki-docusaurus/docs/tutorial-basics/markdown-features-f56": {
+  "/avro-wiki-docusaurus/docs/tutorial-basics/markdown-features-bab": {
     "__comp": "17896441",
     "content": "10411eb9"
   },
-  "/avro-wiki-docusaurus/-bea": {
+  "/avro-wiki-docusaurus/-96a": {
     "__comp": "c4f5d8e4",
     "__context": {
-      "plugin": "66b4ad09"
+      "plugin": "a7456010"
     },
     "config": "5e9f5e1a"
   }

@@ -29,23 +29,20 @@
     "1e4232ab": [
       953
     ],
-    "41e406e4": [
-      848
-    ],
     "5c868d36": [
       974
     ],
     "5e95c892": [
       647
     ],
-    "66b4ad09": [
-      307
-    ],
     "822bd8ab": [
       748
     ],
-    "935f2afb": [
-      581
+    "93f0bf9f": [
+      28
+    ],
+    "a7456010": [
+      235
     ],
     "a7bd4aaa": [
       98
@@ -53,6 +50,9 @@
     "a94703ab": [
       869,
       48
+    ],
+    "aba21aa0": [
+      742
     ],
     "c4f5d8e4": [
       869,
@@ -71,165 +71,165 @@
     ]
   },
   "assets": {
+    "28": {
+      "js": [
+        {
+          "file": "assets/js/93f0bf9f.9752cd9e.js",
+          "hash": "733fda29dacb14a8",
+          "publicPath": "/avro-wiki-docusaurus/assets/js/93f0bf9f.9752cd9e.js"
+        }
+      ]
+    },
     "48": {
       "js": [
         {
-          "file": "assets/js/a94703ab.280d2b1b.js",
-          "hash": "ef2bb706581ba23a",
-          "publicPath": "/avro-wiki-docusaurus/assets/js/a94703ab.280d2b1b.js"
+          "file": "assets/js/a94703ab.1a750024.js",
+          "hash": "3562a16642aea721",
+          "publicPath": "/avro-wiki-docusaurus/assets/js/a94703ab.1a750024.js"
         }
       ]
     },
     "98": {
       "js": [
         {
-          "file": "assets/js/a7bd4aaa.f6e176cc.js",
-          "hash": "df603b7da2325c20",
-          "publicPath": "/avro-wiki-docusaurus/assets/js/a7bd4aaa.f6e176cc.js"
+          "file": "assets/js/a7bd4aaa.d768bcf0.js",
+          "hash": "b3e7dcf67bc5f564",
+          "publicPath": "/avro-wiki-docusaurus/assets/js/a7bd4aaa.d768bcf0.js"
+        }
+      ]
+    },
+    "235": {
+      "js": [
+        {
+          "file": "assets/js/a7456010.4f60f78c.js",
+          "hash": "598736e6aec27719",
+          "publicPath": "/avro-wiki-docusaurus/assets/js/a7456010.4f60f78c.js"
         }
       ]
     },
     "237": {
       "js": [
         {
-          "file": "assets/js/237.0f8eb436.js",
-          "hash": "7a3aa0a72ff972a6",
-          "publicPath": "/avro-wiki-docusaurus/assets/js/237.0f8eb436.js"
-        }
-      ]
-    },
-    "307": {
-      "js": [
-        {
-          "file": "assets/js/66b4ad09.b7f62784.js",
-          "hash": "1dc079cf4b922c36",
-          "publicPath": "/avro-wiki-docusaurus/assets/js/66b4ad09.b7f62784.js"
+          "file": "assets/js/237.6d11a25b.js",
+          "hash": "5aa13bd1804e28fe",
+          "publicPath": "/avro-wiki-docusaurus/assets/js/237.6d11a25b.js"
         }
       ]
     },
     "354": {
       "js": [
         {
-          "file": "assets/js/runtime~main.70b1fe1c.js",
-          "hash": "aeb274de4e2e8af3",
-          "publicPath": "/avro-wiki-docusaurus/assets/js/runtime~main.70b1fe1c.js"
+          "file": "assets/js/runtime~main.072710a6.js",
+          "hash": "ec7c4d1096b144fa",
+          "publicPath": "/avro-wiki-docusaurus/assets/js/runtime~main.072710a6.js"
         }
       ]
     },
     "401": {
       "js": [
         {
-          "file": "assets/js/17896441.7431ca24.js",
-          "hash": "e76cd9342f6d61e8",
-          "publicPath": "/avro-wiki-docusaurus/assets/js/17896441.7431ca24.js"
-        }
-      ]
-    },
-    "581": {
-      "js": [
-        {
-          "file": "assets/js/935f2afb.4ce7de71.js",
-          "hash": "c58d32c336e9ba40",
-          "publicPath": "/avro-wiki-docusaurus/assets/js/935f2afb.4ce7de71.js"
+          "file": "assets/js/17896441.c877a216.js",
+          "hash": "8e90d5c5959dc515",
+          "publicPath": "/avro-wiki-docusaurus/assets/js/17896441.c877a216.js"
         }
       ]
     },
     "624": {
       "js": [
         {
-          "file": "assets/js/10411eb9.f57df5f0.js",
-          "hash": "845924c1628f78a3",
-          "publicPath": "/avro-wiki-docusaurus/assets/js/10411eb9.f57df5f0.js"
+          "file": "assets/js/10411eb9.ed30f2c6.js",
+          "hash": "f1f0f8729316d06c",
+          "publicPath": "/avro-wiki-docusaurus/assets/js/10411eb9.ed30f2c6.js"
         }
       ]
     },
     "634": {
       "js": [
         {
-          "file": "assets/js/c4f5d8e4.1804465d.js",
-          "hash": "54e9de6b8ec0b32f",
-          "publicPath": "/avro-wiki-docusaurus/assets/js/c4f5d8e4.1804465d.js"
+          "file": "assets/js/c4f5d8e4.9f99298b.js",
+          "hash": "4e7dd12d426524aa",
+          "publicPath": "/avro-wiki-docusaurus/assets/js/c4f5d8e4.9f99298b.js"
         }
       ]
     },
     "647": {
       "js": [
         {
-          "file": "assets/js/5e95c892.c116066f.js",
-          "hash": "527cc2ddba0d8305",
-          "publicPath": "/avro-wiki-docusaurus/assets/js/5e95c892.c116066f.js"
+          "file": "assets/js/5e95c892.b4875868.js",
+          "hash": "ccc776c623d9192a",
+          "publicPath": "/avro-wiki-docusaurus/assets/js/5e95c892.b4875868.js"
+        }
+      ]
+    },
+    "742": {
+      "js": [
+        {
+          "file": "assets/js/aba21aa0.8677f621.js",
+          "hash": "e839a807b2d4b2dc",
+          "publicPath": "/avro-wiki-docusaurus/assets/js/aba21aa0.8677f621.js"
         }
       ]
     },
     "748": {
       "js": [
         {
-          "file": "assets/js/822bd8ab.ef8b6f31.js",
-          "hash": "d6bc4d2b90ee83e8",
-          "publicPath": "/avro-wiki-docusaurus/assets/js/822bd8ab.ef8b6f31.js"
+          "file": "assets/js/822bd8ab.b75a11a1.js",
+          "hash": "1e391d92982c16a1",
+          "publicPath": "/avro-wiki-docusaurus/assets/js/822bd8ab.b75a11a1.js"
         }
       ]
     },
     "792": {
       "js": [
         {
-          "file": "assets/js/main.c26f2d53.js",
-          "hash": "e1dc0809467476ae",
-          "publicPath": "/avro-wiki-docusaurus/assets/js/main.c26f2d53.js"
-        }
-      ]
-    },
-    "848": {
-      "js": [
-        {
-          "file": "assets/js/41e406e4.b03a56a2.js",
-          "hash": "b26073da7ecc02fe",
-          "publicPath": "/avro-wiki-docusaurus/assets/js/41e406e4.b03a56a2.js"
+          "file": "assets/js/main.8b0f6cd9.js",
+          "hash": "e939368dc0cc80b3",
+          "publicPath": "/avro-wiki-docusaurus/assets/js/main.8b0f6cd9.js"
         }
       ]
     },
     "863": {
       "js": [
         {
-          "file": "assets/js/f55d3e7a.f64f0daf.js",
-          "hash": "92030b4e5d979f72",
-          "publicPath": "/avro-wiki-docusaurus/assets/js/f55d3e7a.f64f0daf.js"
+          "file": "assets/js/f55d3e7a.d99fa030.js",
+          "hash": "579171e294bf9724",
+          "publicPath": "/avro-wiki-docusaurus/assets/js/f55d3e7a.d99fa030.js"
         }
       ]
     },
     "869": {
       "css": [
         {
-          "file": "assets/css/styles.c0fb9158.css",
-          "hash": "a1f184a878428750",
-          "publicPath": "/avro-wiki-docusaurus/assets/css/styles.c0fb9158.css"
+          "file": "assets/css/styles.de6a2d73.css",
+          "hash": "7a3f683664cad9df",
+          "publicPath": "/avro-wiki-docusaurus/assets/css/styles.de6a2d73.css"
         }
       ]
     },
     "953": {
       "js": [
         {
-          "file": "assets/js/1e4232ab.92158e91.js",
-          "hash": "906b277f255b569d",
-          "publicPath": "/avro-wiki-docusaurus/assets/js/1e4232ab.92158e91.js"
+          "file": "assets/js/1e4232ab.2806222b.js",
+          "hash": "e705da45cc7db8d7",
+          "publicPath": "/avro-wiki-docusaurus/assets/js/1e4232ab.2806222b.js"
         }
       ]
     },
     "974": {
       "js": [
         {
-          "file": "assets/js/5c868d36.a3bc574f.js",
-          "hash": "b041e2930da20716",
-          "publicPath": "/avro-wiki-docusaurus/assets/js/5c868d36.a3bc574f.js"
+          "file": "assets/js/5c868d36.8ed26169.js",
+          "hash": "28be0091909918c0",
+          "publicPath": "/avro-wiki-docusaurus/assets/js/5c868d36.8ed26169.js"
         }
       ]
     },
     "976": {
       "js": [
         {
-          "file": "assets/js/0e384e19.cf4618a6.js",
-          "hash": "631ab676a0ccdcfd",
-          "publicPath": "/avro-wiki-docusaurus/assets/js/0e384e19.cf4618a6.js"
+          "file": "assets/js/0e384e19.e6f2a092.js",
+          "hash": "d9638107e6cfa050",
+          "publicPath": "/avro-wiki-docusaurus/assets/js/0e384e19.e6f2a092.js"
         }
       ]
     }
