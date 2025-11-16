@@ -1,0 +1,27 @@
+{
+  "id": "tutorial-basics/create-a-page",
+  "title": "Create a Page",
+  "description": "Docusaurus creates pages from React components or Markdown files.",
+  "source": "@site/docs/tutorial-basics/create-a-page.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/create-a-page",
+  "permalink": "/avro-wiki-docusaurus/docs/tutorial-basics/create-a-page",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/606/avro-wiki-docusaurus/tree/main/docs/tutorial-basics/create-a-page.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create a Document",
+    "permalink": "/avro-wiki-docusaurus/docs/tutorial-basics/create-a-document"
+  },
+  "next": {
+    "title": "Markdown Features",
+    "permalink": "/avro-wiki-docusaurus/docs/tutorial-basics/markdown-features"
+  }
+}

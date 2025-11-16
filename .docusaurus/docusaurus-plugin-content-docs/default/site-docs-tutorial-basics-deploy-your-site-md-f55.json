@@ -1,0 +1,27 @@
+{
+  "id": "tutorial-basics/deploy-your-site",
+  "title": "Deploy your site",
+  "description": "Docusaurus is a static-site-generator so it can be deployed on any static hosting service.",
+  "source": "@site/docs/tutorial-basics/deploy-your-site.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/deploy-your-site",
+  "permalink": "/avro-wiki-docusaurus/docs/tutorial-basics/deploy-your-site",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/606/avro-wiki-docusaurus/tree/main/docs/tutorial-basics/deploy-your-site.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Markdown Features",
+    "permalink": "/avro-wiki-docusaurus/docs/tutorial-basics/markdown-features"
+  },
+  "next": {
+    "title": "Congratulations!",
+    "permalink": "/avro-wiki-docusaurus/docs/tutorial-basics/congratulations"
+  }
+}

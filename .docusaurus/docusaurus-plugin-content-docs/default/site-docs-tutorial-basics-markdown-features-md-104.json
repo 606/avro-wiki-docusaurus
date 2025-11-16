@@ -1,0 +1,27 @@
+{
+  "id": "tutorial-basics/markdown-features",
+  "title": "Markdown Features",
+  "description": "Docusaurus supports Markdown and a few additional features.",
+  "source": "@site/docs/tutorial-basics/markdown-features.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/markdown-features",
+  "permalink": "/avro-wiki-docusaurus/docs/tutorial-basics/markdown-features",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/606/avro-wiki-docusaurus/tree/main/docs/tutorial-basics/markdown-features.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create a Page",
+    "permalink": "/avro-wiki-docusaurus/docs/tutorial-basics/create-a-page"
+  },
+  "next": {
+    "title": "Deploy your site",
+    "permalink": "/avro-wiki-docusaurus/docs/tutorial-basics/deploy-your-site"
+  }
+}
